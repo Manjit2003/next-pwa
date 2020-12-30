@@ -1,0 +1,10 @@
+{
+  "name": "Dukaan - Get your store online",
+  "short_name": "Dukaan App",
+  "theme_color": "#1f4aaa",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
